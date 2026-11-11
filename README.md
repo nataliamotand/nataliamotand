@@ -1,4 +1,4 @@
-<img src="assets/perfil.svg" width="100%" alt="Natalia Mota · Eng. Elétrica @ UFMG · IA e ML @ Innopolis. Trajetória: empresa júnior da UFMG (2022–23), Localiza&Co (2025–26), Innopolis University (2026) e próximo passo: construir agentes e produtos de IA para problemas reais de negócio, perto de dados e finanças.">
+<img src="assets/capa.svg" width="100%" alt="Natalia Mota · Eng. Elétrica @ UFMG · IA e ML @ Innopolis. Trajetória: empresa júnior da UFMG (2022–23), Localiza&Co (2025–26), Innopolis University (2026) e próximo passo: construir agentes e produtos de IA para problemas reais de negócio, perto de dados e finanças.">
 
 ### Em destaque
 
