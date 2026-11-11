@@ -3,8 +3,8 @@
 ### Em destaque
 
 **[Comanda](https://github.com/nataliamotand/comanda)** · copiloto financeiro do restaurante<br>
-Agente de IA no Telegram que mostra ao dono de restaurante a margem real de cada prato, avisa quando o caixa vai ficar negativo e sugere o que fazer. Os números vêm de views SQL; a IA só explica.<br>
-`Supabase` `n8n` `Groq` `Telegram` `v0 + Vercel` · [Dashboard ao vivo](https://v0-comanda-dashboard.vercel.app)
+O dono de restaurante vê o faturamento, mas não a margem real de cada prato nem quando o caixa vai ficar negativo. Construí do zero, em cerca de 10 dias, um agente de IA no Telegram que responde isso, com relatório semanal automático e um dashboard funcional. Os números vêm de SQL; a IA só explica.<br>
+`n8n` `Groq` `Supabase` `Telegram` `v0 + Vercel` · [Dashboard ao vivo](https://v0-comanda-dashboard.vercel.app)
 
 ### Ferramentas
 
@@ -14,4 +14,4 @@ Agente de IA no Telegram que mostra ao dono de restaurante a margem real de cada
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/natalia-mota-35b93425a) · [ndsmota@gmail.com](mailto:ndsmota@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nataliamotand) · [ndsmota@gmail.com](mailto:ndsmota@gmail.com)
